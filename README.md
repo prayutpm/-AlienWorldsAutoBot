@@ -1,4 +1,4 @@
-# Alien-Worlds-Auto-Mining-Bot-Solving-Captha
+# Alien Worlds Auto Bot
  This bot automatically mines TLM and solves the captcha through the Anti-Captha service
 
 The first working bot for the game Alien Worlds. You will never be banned. The bot always mines with a different delay, so the game thinks that you are a real person.
@@ -44,13 +44,6 @@ https://i.ibb.co/LJcsvzM/1-R2g0wpu-K45-VCgzl-ICg-ECk-A.jpg
 https://i.ibb.co/9w6sKJY/1-Oq-FEm8-Qm6u1wi-FNLXKLFKw.jpg
 
 8. Do not change anything and click on the button that is marked (export)
-9. Open the notebook, paste everything from the clipboard there, do not touch anything.
-10. Save it as 1.json (1.json - for the first account, 2 .json - as for the second, etc. FILE TYPE - ALL FILES, not .txt
-11. For the rest of the accounts, do steps 3-10
-
-IMPORTANT!!!! After each save the account, CLEAR history in the browser !!!!
-
-8. Do not change anything and click on the button that is marked (import)
 9. Open the notebook, paste everything from the clipboard there, do not touch anything.
 10. Save it as 1.json (1.json - for the first account, 2 .json - as for the second, etc. FILE TYPE - ALL FILES, not .txt
 11. For the rest of the accounts, do steps 3-10

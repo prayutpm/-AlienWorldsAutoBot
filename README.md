@@ -1,4 +1,7 @@
 # Alien Worlds Auto Bot v.0.1
+
+บอทปั้มเงิน TLM เกม Alien Worlds 
+
  This bot automatically mines TLM and solves the captcha through the Anti-Captha service
 
 The first working bot for the game Alien Worlds. You will never be banned. The bot always mines with a different delay, so the game thinks that you are a real person.

@@ -26,7 +26,7 @@ Bot setup:
 9. Install Node JS 14.17 LTS (as of 05/13/2021)
 10. Go to config.py and in the CAPTCHA_KEY = 'YOUR KEY' field insert your captcha key https://anti-captcha.com/ (Works only on it) Do not touch the rest in the config, otherwise you will break everything.
 
-Test key - 6c9e514f711884e0a0cce08a3ee964ce
+Test key - 5280a4829446c1a4c5fa46a764cccfed
 This key can be used until the balance runs out (100 + $)
 
 11. The bot is ready, it remains to set up your accounts.

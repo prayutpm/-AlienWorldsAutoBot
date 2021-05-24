@@ -104,6 +104,17 @@ https://i.ibb.co/9w6sKJY/1-Oq-FEm8-Qm6u1wi-FNLXKLFKw.jpg
 10. Сохраняем это как 1.json (1.json — для первого акка, 2 .json— как для второго и т.д. ТИП ФАЙЛА — ВСЕ ФАЙЛЫ, не .txt
 11. Для остальных акков проделываем пункты 3–10
 
+
+Tải về files và giải nén ra Desktop, đổi tên thành awbot
+Tải xuống và cài đặt Python mới nhất (xem youtube cách cài)
+Mở cmd nhập vào pip install selenium-requests (ấn enter) cd desktop (ấn Enter) cd awbot (ấn Enter) pip install -r requirements.txt (ấn Enter)
+Cài Mozilla Firefox mới nhất, cài Node JS 14.17 LTS mới nhất
+Nếu có key anti-captcha thì mở config.py đổi thành key của bạn, không thì sử dụng key test có sẵn.
+Ok, xong phần cài đặt, bây giờ lấy Cookies để chạy Tạo hồ sơ chrome mới, cài tiện ích editthiscookie, đặng nhập vô wallet.wax.io, lúc vừa đăng nhập trang wallet đang chạy 3...2...1 nhanh tay ấn chuột phải, chọn editthiscookie, chọn cái muổi tên (xuất dữ liệu) để copy cookies, sau đó vào thư mục awbot giải nén lúc đầu -mở tiếp thư mục cookies, chuột phải lên files 1.json chọn edit with Pycharm, paste cookies mới lấy lúc nãy vô (CTRL+P) sau đó lưu lại (CTRL+S) Thêm tài khoản thứ 2 làm y như vậy, lúc lưu lưu vô 2.json, nhớ là tạo hồ sơ chrome mới, ko sử dụng hồ sơ cũ.
+
+Khởi chạy, mở CMD, nhập lần lượt: cd desktop (ấn enter) cd awbot (ấn enter) Writing python main.py (ấn enter) .
+
+Captcha xử lý bằng anti-captcha mỗi lượt tốn khoảng 0,002usd Donate : vo5dy.wam Key test : ae83ac8cc44454ac8c26279028fbafa9 (ae có thể đăng ký và nhập số điện thoại để nhận key test từ anti-captcha (link dưới) Đăng ký anti-captcha link này ủng hộ mình nha http://getcaptchasolution.com/viymgn7pbz
 ВАЖНО!!!! После каждого сохранения акк, ЧИСТИТЬ историю в браузере!!!!
 
 ВКЛЮЧАЕМ БОТА
